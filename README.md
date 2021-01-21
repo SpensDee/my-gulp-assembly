@@ -34,9 +34,9 @@ my-gulp-assembly
  ###  Commands: ###
 >1. styles: convert scss to css
 >2. scripts: concatenation all files JS
->5. images: compressing images
->6. cleanDist: delete folder 'Dist'
+>3. images: compressing images
+>4. cleanDist: delete folder 'Dist'
 
->7. <bold>build: build project
->8. default: start all plugins<b>
+>5. <bold>build: build project
+>6. default: start all plugins<b>
  
