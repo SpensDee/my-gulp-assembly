@@ -37,6 +37,6 @@ my-gulp-assembly
 >5. images: compressing images
 >6. cleanDist: delete folder 'Dist'
 
->7. build: build project
->8. default: start all plugins
+>7. <bold>build: build project
+>8. default: start all plugins<b>
  
