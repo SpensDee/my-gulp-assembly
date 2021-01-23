@@ -9,7 +9,7 @@ my-gulp-assembly
 >Gulp</br>
  npm i --save-dev gulp
 
->Auto reload </br>
+>Livereload </br>
  npm i --save-dev browser-sync
 
 >Converting from scss to css</br>
